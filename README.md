@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **life, cars and tech**
 
-- 📫 How to reach me **alonr110@gmail.com**
-
 - ⚡ Fun fact **a real motorhead**
 
 <h3 align="left">Connect with me:</h3>

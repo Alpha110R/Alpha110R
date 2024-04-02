@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alon Ronder</h1>
 <h3 align="center">I'm a backend developer, pursue to be the best developer that I can be</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/5ntdy5Ban1dIY/200w.gif?cid=6c09b952xpn67vwrlo9dwrb9d7vr6lveyqawcqzx5ngqeu9s&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 - 🔭 I’m currently working on **most advanced autonomous drones system**
 
